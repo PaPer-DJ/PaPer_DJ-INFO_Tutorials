@@ -1,0 +1,137 @@
+﻿=== [PaPer_DJ] Mega Pack SNES Mini 1800+ Games [RTR] + MODS (Hakchi CE 3.5.2) === [V2.0]
+
+Telegram: https://t.me/PaPer_DJ
+GitHub: https://github.com/PaPer-DJ
+eMail: paperdj@hotmail.com
+
+Canal Telegram Consolas MINI: 
+
+✓ https://t.me/snesminiroms
+
+
+1. >>>> PREPARAR CONSOLA: ( "Factory Reset" y FLASHEAR CUSTOM KERNEL )
+2. >>>> INSTALAR MODS: ( >1º CORES >2º BIOS >3º MODS ) (Todos los MODS que empiezan con [PaPer_DJ]
+3. >>>> INSTALAR JUEGOS: ( Solo es necesario darle a "Export Games" con el Pendrive o memoria conectado al PC )
+4. >>>> MEMORIA EXTERNA: (Es NECESARIO COMO ÚLTIMO PASO copiar en la MEMORIA EXTERNA el contenido de la carpeta "[PaPer_DJ] A1 - Copiar en Memoria USB o Pendrive" )
+	>>>> LA MEMORIA EXTERNA DEBE FORMATEARSE EN FAT32 ( Usando por ejemplo: https://rufus.ie/ )
+
+* Para salir de cualquier juego usar el combo (Select + Abajo)
+
+				---------------- ************************************** ---------------- 
+----------------------------------------------------------------------------------
+
+TUTORIAL para hacer funcionar el Mega PACK corréctamente en S-NES Mini CLASSIC desde la Memoria Externa 
+con USB-Host (OTG) usando Hakchi2 CE 3.50 o superior. (También válido para NES Mini CLASSIC)
+(Este tutorial es válido para instalar cualquier juego en la SNESC, no solo este Pack)
+
+* Tutorial y compilación de recursos by: PaPer_DJ
+* Tutorial revisado y optimizado por: Bruennor
+
+-----------------------------------------------------------------------------------
+
+Si vienes de usar una versión de Hakchi anterior a Hakchi CE 3.4.1, o inlcuso desde Hakchi 2.30 y anteriores, 
+es imprescindible que primero se deje la consola con el Firmware de serie Original de la siguiente manera:
+
+ES NECESARIO desinstalar desde la versión del Hakchi que estuvieses usando actualmente, por ejemplo Hakchi 2.30
+(Desde HAKCHI, en el menú "Kernel, Uninstall)
+Tras esto, se arranca la consola de manera normal, para comprobar que vuelve a estar de serie, y se hace un factory reset, 
+desde el menú de la propia consola (Format) "Configuración de Fabrica, Formatear la Consola"
+
+Para los que ya están en versiones de Hakchi actuales (3.50 y superiores) y quieren dejar la consola limpia para empezar de cero, es recomendable utilizar la opcion de "Factory Reset" presente en el menú de Hakchi: "Kernel\Advanced\Factory reset"
+Después de hacer el Factory reset, se ha de volver a instalar el Kernel (como se indica en los pasos más abajo) 
+Desde: "Kernel\Install - Repair"
+De esta manera se consigue hacer un "Wipe" completo de la consola para empezar con un Kernel y NAND limpias.
+ 
+
+Pasos:
+
+1. >>>> PREPARAR CONSOLA: Despues de dejar la consola con la configuracion de fabrica, vamos a flashear con el custom kernel.
+
+Para los que tienen la consola recién comprada, y hacen todo esto por primera vez, se ha de Flashear el Custom Kernel 
+para habilitar el uso de emuladores y otro tipo de MODS para hacer funcionar ROMS de multiples sistemas.
+En este caso, usaremos la version actual (Hakchi CE 3.5.2) 
+
+>> Ejecutar HAKCHI.EXE
+(Si la primera vez salta algún aviso de Firewall de Windows, darle al check de Permitir "Redes Privadas" y "Redes Publicas")
+
+	1. Desde HAKCHI, Click en el menú "Kernel >> Install/Repair y Darle a "Yes"
+	3. Conectar la NES/SNESC Mini al PC directamente con su cable USB (Nada de USB Host).
+	4. Manteniendo presionado el botón de "RESET" en la consola, se desliza el Boton "POWER" hacia la posicion de encendido "ON"
+	   para entrar en modo FEL (El led rojo de encendido, debería apagarse)
+	5. Despues de unos segundos soltar el botón de "RESET" (Se debería escuchar el típico sonido en Windows de detección de nuevo dispositivo)
+	6. Pedirá Instalar el driver para la consola si es la primera vez. Click en "Install driver"
+	7. Seguir indicaciones en Pantalla. Tras finalizar el proceso, la consola ya debería tener instalado el Custom Kernel.
+
+2. >>>> INSTALAR MODS:
+
+  Siguiendo con la aplicacion abierta, en el menú "Modules, Install extra modules", agregaremos todos los cores, bios y complementos necesarios en la memoria interna de la consola, en el orden mostrado más arriba, Lo repito:
+
+	- Instalar todos los CORES de las plataformas que deseemos emular.
+	- Instalar las BIOS para los CORES que las requieran.
+	- Instalar MODS "Options Deluxe" y "Theme Selector" a la vez. (Escoger version NES o SNES)
+	- Por último instalar el Retroarch incluido en el pack, teniendo en cuenta de instalarlo despues de CORES y BIOS. (Elegir NES o SNES)
+	- Opcional para evitar Errores el MOD "MM C8 Error Deterrent"
+	- Opcional Instalar el MOD "Hakchi Memory Booster" *
+	* Si se instala el CORE para juegos de Nintendo 64, PSP y/o Dreamcast es recomendable instalar "Hakchi Memory Booster" esto mejora el rendimiento de la consola para estos juegos.
+
+3. >>>>  INSTALAR JUEGOS:
+
+  Los juegos pueden instalarse de dos maneras, bien en la memoria interna (esta despues de instalar mod's, cores y demas deja poco espacio, aunque aceptable) o bien en memoria externa usando adaptadores HUB OTG (bien en pendrive o en tarjeta SD depende de adaptador elegido).
+Este pack esta diseñado para utilizarlo con memoria externa, pero se pueden instalar unos pocos en la interna si se desea. 
+Yo tengo mis favoritos de NES y SNES, y el acceso al Retroarch, por ejemplo, asi de esta manera al iniciar la consola sin la memoria externa tengo mi seleccion básica de favoritos.
+
+** ESTE PACK viene con TODOS LOS JUEGOS ya LISTOS para EXPORTAR, de tal manera que solo es necesario seguir los pasos PARA EXPORTARLOS.
+(Dicho de otro modo, solo es necesario darle a "Export Games" con el Pendrive o memoria conectado al PC) **
+
+Para AÑADIR Juegos a Hakchi:
+1. >> Arrastrar hacia la ventana de juegos de Hakchi CE (Custom Games) las ROMS, ISOS o archivos necesarios del juego deseado, y aceptar tantas veces como nos lo solicite si estamos importando roms en formato .zip como las de NEOGEO.
+2. >> Hakchi lanzará una pantalla donde se debe seleccionar el tipo de sistema a emular "System" y el Core (Emulador) que usar "Core"
+3. >> Tras seleccionar el Core necesario, hacer click en el botón "Apply" y el juego ya quedará añadido con la ruta correcta en la línea de comandos. [Normalmente al instalar un core, este mismo en la descripcion te pone la ruta que emplea para los ejecutar los juegos]
+4. >> En algunos casos hay que poner manualmente la ruta correcta al CORE que queramos usar con el juego añadido. 
+
+Para EXPORTAR Juegos:
+1. >> Conectar memoria USB externa al PC
+2. >> Una vez se tienen seleccionados los juegos deseados, (por defecto todos) se hace click en el botón "Export games" y se selecciona la unidad USB (Memoria Externa) donde se quieren Exportar/Copiar los juegos.
+	Paciencia. Dependiendo de la velociad de la memoria usada, puede tardar varias horas.
+3. >> Se extrae de manera segura la memoria del PC, (dándole al icono en Windows de extracción segura, para evitar corromper la memoria) y se pincha en el cable/adaptador USB Host OTG.
+4. >> Se conecta el Cable USB Host a la consola. El conector de corriente que antes iba a la consola, ahora va a la entrada del cable/adaptador USB HOST OTG.
+5. >> Se enciende la consola con tu nuevo y flamante sistema de juegos listo para disfrutar!
+
+
+4. >>>>  MEMORIA EXTERNA:
+
+Es NECESARIO COMO ÚLTIMO PASO copiar en la MEMORIA EXTERNA el contenido de la carpeta "[PaPer_DJ] A1 - Copiar en Memoria USB o Pendrive" para poder disfrutar de los contenidos multimedia especiales preparados para este pack, tales como música adicional, temas, guardar partidas en memoria externa, configuraciones custom, etc.
+   Dicha carpeta la encontraras dentro del pack y solo se debera copiar el contenido de ella, no la carpeta en si. 
+	(Es decir, la carpeta que lleva dentro, "hakchi" y todo lo demás, se copia en el directorio raiz de la memoria externa, si pide reescribir, se reescribe)
+
+REPOSITORIO DE TEMAS REALIZADOS POR MI MISMO:
+
+>> https://github.com/PaPer-DJ/PaPer_DJ-SNES-Classic-Themes
+
+Repositorio Oficial del "Theme Selector"
+
+>> http://hakchicloud.com/Hakchi_Themes/themes/
+
+
+MANUALES, INFO Y RECURSOS:
+
+>> https://github.com/PaPer-DJ
+
+
+
+				---------------- ************************************** ----------------
+
+ Este tutorial y todo el material recopilado, modificado y expuesto son para fines educativos únicamente.
+No promuevo la piratería, recomiendo comprar juegos que estén en el mercado, para apoyar a las desarrolladoras.
+Al usar "roms" se supone que se posee la licencia original de dichos juegos. Descargar juegos sin licencia es ilegal.
+
+Si alguien quiere que elimine o modifique alguna cuestión, por favor, mandar privado o escribir a: paperdj@hotmail.com
+También podéis contactar desde mi canal de Youtube: https://www.youtube.com/channel/UCNXTfqlkdvLZJGnT4zPjvtg
+O mi usuario de Telegram: https://t.me/PaPer_DJ
+
+GRACIAS a todos los que comparten, han colaborado, colaboran y/o hacen posible este tipo de cosas, 
+y en especial a los compañeros del canal de Telegram, que me ayudan a mejorar y corregir errores además de 
+dar ánimos, aportaciones y agradecer el trabajo desinteresado que supone todo esto.
+Espero que sirva de ayuda para otros este PACK y tutorial actualizado para disfrutar más de nuestra SNES Mini.
+
+Un saludo amigos, y a disfrutar! @PaPer_DJ
