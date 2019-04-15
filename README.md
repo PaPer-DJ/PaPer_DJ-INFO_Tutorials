@@ -12,5 +12,10 @@ Canal Telegram Consolas MINI:
 ✓ https://t.me/snesminiroms
 
 -------------------------------------------------------------
+SCENE RESOURCES
 
 * https://hakchi.net/KMFDManic/
+
+* https://coolrom.com.au/
+
+
