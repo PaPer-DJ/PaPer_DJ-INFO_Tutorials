@@ -16,13 +16,17 @@ SCENE RESOURCES
 
 * https://hakchi.net/KMFDManic/
 
-* https://coolrom.com.au/
-
-* https://www.emuparadise.me/
-
 * https://hakchiresources.com/
 
 * https://snesclassicmods.com/
 
 * https://github.com/TheOtherGuys-Hakchi-Projects
+
+------------------------------------------------------------
+
+ROMS
+
+* https://coolrom.com.au/
+
+* https://www.emuparadise.me/
 
