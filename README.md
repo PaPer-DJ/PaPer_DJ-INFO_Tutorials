@@ -20,4 +20,9 @@ SCENE RESOURCES
 
 * https://www.emuparadise.me/
 
+* https://hakchiresources.com/
+
+* https://snesclassicmods.com/
+
+* https://github.com/TheOtherGuys-Hakchi-Projects
 
