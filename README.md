@@ -16,11 +16,17 @@ SCENE RESOURCES
 
 * https://hakchi.net/KMFDManic/
 
+* https://modmyclassic.com/
+
 * https://hakchiresources.com/
 
 * https://snesclassicmods.com/
 
 * https://github.com/TheOtherGuys-Hakchi-Projects
+
+* https://github.com/screemerpl/cbleemsync
+
+* https://github.com/screemerpl/cbleemsync/releases
 
 ------------------------------------------------------------
 
