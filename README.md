@@ -36,3 +36,20 @@ ROMS
 
 * https://www.emuparadise.me/
 
+
+Download Box Art packs from various sources:
+
+* https://archive.org/search.php?query=SNES%20Covers
+
+* https://emumovies.com/files/category/1802-artwork/
+
+* https://www.arcadeartwork.org/index.php?/category/698
+
+* http://thumbnailpacks.libretro.com/
+
+* https://gamesdb.launchbox-app.com/
+
+* http://www.thecoverproject.net/
+
+
+Saludos! @PaPer_DJ
