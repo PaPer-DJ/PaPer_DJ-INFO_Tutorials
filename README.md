@@ -22,6 +22,8 @@ SCENE RESOURCES
 
 * https://snesclassicmods.com/
 
+* https://www.reddit.com/r/miniSNESmods/
+
 * https://github.com/TheOtherGuys-Hakchi-Projects
 
 * https://github.com/screemerpl/cbleemsync
@@ -51,5 +53,11 @@ Download Box Art packs from various sources:
 
 * http://www.thecoverproject.net/
 
+
+MORE MINI SCENE STUFF:
+
+* https://www.reddit.com/r/miniSNESmods/comments/bg3izy/hakchi2ce_fork_by_pat_hartl_making_hakchi2ce_more/
+
+* https://www.reddit.com/r/miniSNESmods/
 
 Saludos! @PaPer_DJ
