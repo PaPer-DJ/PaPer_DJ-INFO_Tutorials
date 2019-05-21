@@ -38,6 +38,11 @@ ROMS
 
 * https://www.emuparadise.me/
 
+OpenBOR
+
+* https://www.gamesdatabase.org/all_system_games-openbor
+* https://drive.google.com/drive/folders/1ZE1KdWaHw59urLGQC7d3TNZif_rexTNZ
+
 
 Download Box Art packs from various sources:
 
