@@ -14,6 +14,8 @@ Canal Telegram Consolas MINI:
 -------------------------------------------------------------
 SCENE RESOURCES
 
+* https://github.com/KMFDManic/NESC-SNESC-Modifications/releases
+
 * https://hakchi.net/KMFDManic/
 
 * https://modmyclassic.com/
