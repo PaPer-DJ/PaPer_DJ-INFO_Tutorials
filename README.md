@@ -14,25 +14,46 @@ Canal Telegram Consolas MINI:
 -------------------------------------------------------------
 SCENE RESOURCES
 
-* https://github.com/TeamShinkansen/hakchi2/releases
+• Github de Hakchi2 CE (Para Hackear y Modificar la NES/SNES Mini)
+- https://github.com/TeamShinkansen/hakchi2/releases
 
-* https://github.com/KMFDManic/NESC-SNESC-Modifications/releases
+• Github de KMFDManic (Kyland) (Ultimos Recursos, MODS, CORES y RETROARCH para NES/SNES Mini)
+- https://github.com/KMFDManic/NESC-SNESC-Modifications/releases
+ (Lo mismo, pero en formato carpeta/explorador) SNES y PSC
+- https://hakchi.net/KMFDManic/
 
-* https://hakchi.net/KMFDManic/
+• Tutoriales y guias con imágenes de Hakchi2 CE (Para Hackear y Modificar la NES/SNES Mini)
+- https://snesclassicmods.com/
 
-* https://modmyclassic.com/
+• Reddit con novedades (Para la NES/SNES Mini)
+- https://www.reddit.com/r/miniSNESmods/
 
-* https://hakchiresources.com/
+• Github del Team Hakchi "TheOtherGuys" (Mods Para la NES/SNES Mini) Ojo, hay cosas delicadas
+- https://github.com/TheOtherGuys-Hakchi-Projects
 
-* https://snesclassicmods.com/
+• Github de @PaPer_DJ (Todo tipo de recursos para las Consolas Mini y Retro)
+- https://github.com/PaPer-DJ
+- https://github.com/PaPer-DJ/PaPer_DJ-Hakchi2-CE-BIOS-Modules?files=1 (Modulos de BIOS)
 
-* https://www.reddit.com/r/miniSNESmods/
+Temas para la SNES Mini (Selector de Temas) (Theme Selector)
+- https://github.com/PaPer-DJ/PaPer_DJ-SNES-Classic-Themes
 
-* https://github.com/TheOtherGuys-Hakchi-Projects
+Tuto y Recursos en caso de Brick de la SNES Mini (Kernels y MODs)
+- https://github.com/PaPer-DJ/PaPer_DJ-SNES-Classic-Kernels-UnBrick-Desbrickear
 
-* https://github.com/screemerpl/cbleemsync
 
-* https://github.com/screemerpl/cbleemsync/releases
+• WEB del Team "ModMyClassic" (Mods Para la PlayStation Classic Mini) (PSC)
+- https://modmyclassic.com/
+
+• WEB de BleemSync para PSC (Mods Para la PlayStation Classic Mini) (PSC)
+- https://modmyclassic.com/bleemsync/
+
+• Github de "screemerpl" (AUTOBLEEM Para la PlayStation Classic Mini) (PSC)
+- https://github.com/screemerpl/cbleemsync/releases
+
+
+• DISCORD - Canal Americano Oficial de ModMyClassic (Info, News y Mods para consolas Mini)
+- https://discordapp.com/invite/KyTDgJE
 
 ------------------------------------------------------------
 
