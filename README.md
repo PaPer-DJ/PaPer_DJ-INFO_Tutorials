@@ -19,6 +19,7 @@ SCENE RESOURCES
 
 • Github de KMFDManic (Kyland) (Ultimos Recursos, MODS, CORES y RETROARCH para NES/SNES Mini)
 - https://github.com/KMFDManic/NESC-SNESC-Modifications/releases
+ 
  (Lo mismo, pero en formato carpeta/explorador) SNES y PSC
 - https://hakchi.net/KMFDManic/
 
