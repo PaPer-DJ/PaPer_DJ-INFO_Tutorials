@@ -4,8 +4,11 @@
 -------------------------------------------------------------
 
 Telegram: https://t.me/PaPer_DJ 
+
 GitHub: https://github.com/PaPer-DJ 
+
 YouTube: https://www.youtube.com/user/PaPerDJ 
+
 eMail: paperdj@hotmail.com
 
 Canal Telegram Consolas MINI: 
